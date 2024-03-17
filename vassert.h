@@ -1,3 +1,5 @@
+#pragma once
+
 #include <stdio.h>
 
 #ifndef assert_printf
